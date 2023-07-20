@@ -381,6 +381,8 @@ function App() {
 
   return (
     <div className="App">
+        <title>Level I 202</title>
+        <icon rel="icon" src={levelLeaf}/>
         <h1 id="TITLE"><img src={levelLeaf} />evel I 202</h1>
         <p id="chris">Curriculum by Chris Lamb</p>
         <p id="chris2">Site by Jeffrey Ryan</p>
