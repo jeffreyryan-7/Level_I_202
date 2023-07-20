@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Level_I_202/static/css/main.7d15c308.css",
+    "main.css": "/Level_I_202/static/css/main.c42d290b.css",
     "main.js": "/Level_I_202/static/js/main.deb65487.js",
     "static/media/28_Anderson_Studies.pdf": "/Level_I_202/static/media/28_Anderson_Studies.2a59c2dc8f6683842f1a.pdf",
     "static/media/21_Dorn_iv.pdf": "/Level_I_202/static/media/21_Dorn_iv.97c065678d5c52e93716.pdf",
@@ -41,11 +41,11 @@
     "static/media/1_Year_2_Snare_Survey.pdf": "/Level_I_202/static/media/1_Year_2_Snare_Survey.88e302cf9090a20d9d39.pdf",
     "static/media/Level_1_Leaf.png": "/Level_I_202/static/media/Level_1_Leaf.9b5aaf33c23e6c4aec52.png",
     "index.html": "/Level_I_202/index.html",
-    "main.7d15c308.css.map": "/Level_I_202/static/css/main.7d15c308.css.map",
+    "main.c42d290b.css.map": "/Level_I_202/static/css/main.c42d290b.css.map",
     "main.deb65487.js.map": "/Level_I_202/static/js/main.deb65487.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d15c308.css",
+    "static/css/main.c42d290b.css",
     "static/js/main.deb65487.js"
   ]
 }
